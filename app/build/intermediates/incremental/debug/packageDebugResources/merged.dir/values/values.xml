@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">GravityLock uses this service to lock your screen when the phone is placed face down.</string>
+    <string name="app_name">GravityLock</string>
+    <style name="Theme.GravityLock" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
